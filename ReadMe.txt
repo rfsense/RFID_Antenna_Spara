@@ -1,0 +1,1 @@
+VNA measurements of antennas designed for 860-920 MHz RFIDs normally measure and display Antenna S-parameters wrt to 50 ohms. Submitted code takes Antenna's VNA measurements and plots that antenna's S-parameters wrt RFID's IC imedance instead of wrt 50 ohms.  
